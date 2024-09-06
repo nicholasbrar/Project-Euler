@@ -1,6 +1,7 @@
+Some of my solutions for HackerRank's ongoing compettion, [ProjectEuler+](https://www.hackerrank.com/contests/projecteuler/challenges)
 ## Solutions
 
 | #   | Title                                                                                                  | Solution                                                     | Difficulty |
 |-----|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|------------|
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/description/)                                         | [C++](solutions/1-Two-Sum.cpp)                              | Easy       |
-| 13  | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/description/)                       | [C++](solutions/13-Roman-To-Integer.cpp)                     | Easy       |
+| 1   | [Multiples of 3 and 5](https://leetcode.com/problems/two-sum/description/)                                         | [C++](solutions/1-Two-Sum.cpp)                              | Easy       |
+
