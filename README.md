@@ -10,5 +10,5 @@ Some of my solutions for HackerRank's ongoing compettion, [ProjectEuler+](https:
 | 6   | [Sum square difference](https://www.hackerrank.com/contests/projecteuler/challenges/euler006/problem?isFullScreen=true)                    | [C++](solutions/6-Sum-Square-Difference.cpp)  | 
 | 7   | [10001st prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler007/problem?isFullScreen=true)                    | [C++](solutions/7-10001st-Prime.cpp)  | 
 | 13   | [Large sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler013/problem?isFullScreen=true)                    | [Python](solutions/13-Large-Sum.py)  | 
-| 22   | [Sum square difference](https://www.hackerrank.com/contests/projecteuler/challenges/euler006/problem?isFullScreen=true)                    | [C++](solutions/6-Sum-Square-Difference.cpp)  | 
+| 22   | [Names scores](https://www.hackerrank.com/contests/projecteuler/challenges/euler022/problem?isFullScreen=true)                    | [C++](solutions/22-Names-Scores.cpp)  | 
 
